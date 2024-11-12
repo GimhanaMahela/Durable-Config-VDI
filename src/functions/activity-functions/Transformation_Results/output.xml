@@ -1,0 +1,44 @@
+<results>
+  <region_grouping>
+    <Antarctic>
+      <Country_Name_with_Uppercase>SOUTH GEORGIA</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>30</Formatted_Population_Value>
+    </Antarctic>
+    <Americas>
+      <Country_Name_with_Uppercase>GRENADA</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>112,519</Formatted_Population_Value>
+    </Americas>
+    <Americas>
+      <Country_Name_with_Uppercase>BARBADOS</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>287,371</Formatted_Population_Value>
+    </Americas>
+    <Europe>
+      <Country_Name_with_Uppercase>SWITZERLAND</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>8,654,622</Formatted_Population_Value>
+    </Europe>
+    <Europe>
+      <Country_Name_with_Uppercase>HUNGARY</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>9,749,763</Formatted_Population_Value>
+    </Europe>
+    <Africa>
+      <Country_Name_with_Uppercase>SIERRA LEONE</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>7,976,985</Formatted_Population_Value>
+    </Africa>
+    <Africa>
+      <Country_Name_with_Uppercase>IVORY COAST</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>26,378,275</Formatted_Population_Value>
+    </Africa>
+    <Asia>
+      <Country_Name_with_Uppercase>TAIWAN</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>23,503,349</Formatted_Population_Value>
+    </Asia>
+    <Oceania>
+      <Country_Name_with_Uppercase>WALLIS AND FUTUNA</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>11,750</Formatted_Population_Value>
+    </Oceania>
+    <Oceania>
+      <Country_Name_with_Uppercase>PITCAIRN ISLANDS</Country_Name_with_Uppercase>
+      <Formatted_Population_Value>56</Formatted_Population_Value>
+    </Oceania>
+  </region_grouping>
+</results>

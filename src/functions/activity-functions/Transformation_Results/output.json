@@ -1,0 +1,56 @@
+{
+  "region_grouping": {
+    "Antarctic": [
+      {
+        "Country_Name_with_Uppercase": "SOUTH GEORGIA",
+        "Formatted_Population_Value": "30"
+      }
+    ],
+    "Americas": [
+      {
+        "Country_Name_with_Uppercase": "GRENADA",
+        "Formatted_Population_Value": "112,519"
+      },
+      {
+        "Country_Name_with_Uppercase": "BARBADOS",
+        "Formatted_Population_Value": "287,371"
+      }
+    ],
+    "Europe": [
+      {
+        "Country_Name_with_Uppercase": "SWITZERLAND",
+        "Formatted_Population_Value": "8,654,622"
+      },
+      {
+        "Country_Name_with_Uppercase": "HUNGARY",
+        "Formatted_Population_Value": "9,749,763"
+      }
+    ],
+    "Africa": [
+      {
+        "Country_Name_with_Uppercase": "SIERRA LEONE",
+        "Formatted_Population_Value": "7,976,985"
+      },
+      {
+        "Country_Name_with_Uppercase": "IVORY COAST",
+        "Formatted_Population_Value": "26,378,275"
+      }
+    ],
+    "Asia": [
+      {
+        "Country_Name_with_Uppercase": "TAIWAN",
+        "Formatted_Population_Value": "23,503,349"
+      }
+    ],
+    "Oceania": [
+      {
+        "Country_Name_with_Uppercase": "WALLIS AND FUTUNA",
+        "Formatted_Population_Value": "11,750"
+      },
+      {
+        "Country_Name_with_Uppercase": "PITCAIRN ISLANDS",
+        "Formatted_Population_Value": "56"
+      }
+    ]
+  }
+}
